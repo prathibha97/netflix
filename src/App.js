@@ -5,8 +5,8 @@ import { HomeScreen } from './pages';
 function App() {
   return (
     <div className="app">
-      <h1>Netflix</h1>
       <HomeScreen />
+      
     </div>
   );
 }
