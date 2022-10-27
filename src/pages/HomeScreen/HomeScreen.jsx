@@ -1,11 +1,11 @@
-import { Nav } from '../../components'
+import { Banner, Nav } from '../../components'
 import './HomeScreen.css'
 
 const HomeScreen = () => {
     return (
         <div className='homeScreen'>
             <Nav />
-            {/* banner */}
+            <Banner />
             {/* row */}
         </div>
     )
